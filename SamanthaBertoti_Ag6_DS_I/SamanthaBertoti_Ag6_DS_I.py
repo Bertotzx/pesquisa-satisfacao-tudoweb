@@ -28,6 +28,6 @@ else:
 preco_final = preco - desconto
 
 # ---------- SAÍDA ----------
-print(f"Preço original: R$ {preco:.2f}")
+print(f"Preço original: R$ {preco:.2f}") 
 print(f"Desconto: R$ {desconto:.2f}")
 print(f"Preço final: R$ {preco_final:.2f}")
